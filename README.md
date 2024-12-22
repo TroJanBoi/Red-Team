@@ -12,12 +12,12 @@ Download [Virtual Machine Box](https://www.virtualbox.org/wiki/Downloads) for ru
 Dowload [Red Team Lab]()
 
 ## Importing and Running a Lab in VMware Workstation
-```
+
 1. Download the lab VM file (e.g., .ova or .vmx).
 2. Open VMware Workstation.
 3. Go to File > Open, select the VM file, and import it.
 4. Click Power On to start the VM.
-```
+
 ## Install Kali Linux on VirtualBox
 
 1. Download Kali ISO: Get the ISO file from [Kali.org](https://www.kali.org/get-kali/)
